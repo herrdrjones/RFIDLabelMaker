@@ -1,0 +1,15 @@
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\bin\Release\RFIDLabelMaker.exe.config
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\bin\Release\RFIDLabelMaker.exe
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\bin\Release\RFIDLabelMaker.pdb
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\bin\Release\LinqToExcel.dll
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\bin\Release\log4net.dll
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\bin\Release\Remotion.Data.Linq.dll
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\bin\Release\Remotion.dll
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\bin\Release\Remotion.Interfaces.dll
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\bin\Release\LinqToExcel.xml
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\bin\Release\log4net.xml
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\obj\Release\RFIDLabelMaker.Form1.resources
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\obj\Release\RFIDLabelMaker.Properties.Resources.resources
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\obj\Release\RFIDLabelMaker.csproj.GenerateResource.Cache
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\obj\Release\RFIDLabelMaker.exe
+P:\Visual Studio 2015\Projects\RFIDLabelMaker\RFIDLabelMaker\obj\Release\RFIDLabelMaker.pdb

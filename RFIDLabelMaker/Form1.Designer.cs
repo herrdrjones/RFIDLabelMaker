@@ -74,6 +74,7 @@
             this.btnUpload.TabIndex = 3;
             this.btnUpload.Text = "Upload Roster";
             this.btnUpload.UseVisualStyleBackColor = true;
+            this.btnUpload.Visible = false;
             this.btnUpload.Click += new System.EventHandler(this.btnUpload_Click);
             // 
             // btnPreview
@@ -84,6 +85,7 @@
             this.btnPreview.TabIndex = 4;
             this.btnPreview.Text = "Preview";
             this.btnPreview.UseVisualStyleBackColor = true;
+            this.btnPreview.Visible = false;
             this.btnPreview.Click += new System.EventHandler(this.btnPreview_Click);
             // 
             // chkSpecificRace

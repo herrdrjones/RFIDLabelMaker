@@ -30,7 +30,7 @@ namespace RFIDLabelMaker
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            txtLine1.Text = "www.ohioraceday.com";
+            txtLine1.Text = "Your Company Name Here";
             txtLine2.Text = "DO NOT BEND OR REMOVE";
             using (XmlReader reader = XmlReader.Create("Settings.xml"))
             {
@@ -120,6 +120,7 @@ namespace RFIDLabelMaker
                     txtEnd.BackColor = Color.Yellow;
             }
             string FileName = "output" + fileNumber + ".txt";
+            File.SetAttributes(FileName, FileAttributes.Normal);
             File.WriteAllText(FileName, RFIDLabel);
             Files.Add(FileName);
             PrintDialog pd = new PrintDialog();
